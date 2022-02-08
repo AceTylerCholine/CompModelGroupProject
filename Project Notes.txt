@@ -1,0 +1,15 @@
+Linear Model
+Shallow Neural Net
+
+Classification model:
+	Label or group
+		Cat vs dog training
+
+Generic Project:
+1. Classification Problem
+	a. Images
+	b. Features
+	c. Audio files
+	d. Documents
+2. Linear Classifier
+3. Nonlinear Classifier
