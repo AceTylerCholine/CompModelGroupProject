@@ -13,3 +13,21 @@ Generic Project:
 	d. Documents
 2. Linear Classifier
 3. Nonlinear Classifier
+
+https://figshare.com/articles/dataset/Using_resting_state_functional_MRI_to_build_a_personalized_autism_diagnosis_system/7281995
+
+pone.0206351.s001
+	S1 Table. Personalized result of all 283 subjects used.
+	In this table, a score between 0 and 1 is used to define the membership score of each area to the autism class, with 0 being normal and 1 being the highest in the autism class membership. The scores in this table are used to generate the color coded visualization in Fig 6.
+	https://doi.org/10.1371/journal.pone.0206351.s001
+	(XLSX)
+
+pone.0206351.s002
+	S2 Table. Sets of hyper-paramters used for both autoencoder and SVM for each individual area during the grid search Fig 7.
+	https://doi.org/10.1371/journal.pone.0206351.s002
+	(XLSX)
+
+pone.0206351.s003
+	S1 Fig. The selection of hyper-parameters in a K-fold cross validation using grid search algorithm.2.
+	https://doi.org/10.1371/journal.pone.0206351.s003
+	(DOCX)
